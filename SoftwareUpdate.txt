@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
