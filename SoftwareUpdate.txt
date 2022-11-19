@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+New test for labels and crops (#8861)
