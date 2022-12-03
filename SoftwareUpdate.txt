@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
