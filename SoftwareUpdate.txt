@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+update requirements.txt
