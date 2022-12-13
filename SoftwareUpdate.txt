@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add missing single-line docstrings (#8362)
