@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
