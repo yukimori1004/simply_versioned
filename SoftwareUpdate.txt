@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
