@@ -1,1 +1,1 @@
-add yolov10
+Model typehints Docker fix (#8306)
