@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add C++ Classify inference example (#6868)
