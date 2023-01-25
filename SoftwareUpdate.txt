@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Add plot_images conf_thresh parameter (#8446)
