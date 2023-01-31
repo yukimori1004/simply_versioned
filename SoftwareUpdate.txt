@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Cleanup Docs languages (#7865)
