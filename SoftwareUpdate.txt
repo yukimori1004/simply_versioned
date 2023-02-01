@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Hold failed upload metrics and upload with next upload metrics (#8513)
