@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Faster batch same_shapes (#8851)
