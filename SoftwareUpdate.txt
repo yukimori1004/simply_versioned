@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix IS_PYTHON_3_12 bug (#9258)
