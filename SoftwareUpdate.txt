@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
