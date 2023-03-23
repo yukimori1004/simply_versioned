@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add plot_images conf_thresh parameter (#8446)
