@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update Colab notebook for YOLOv8.1 (#8660)
