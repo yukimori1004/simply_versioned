@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
