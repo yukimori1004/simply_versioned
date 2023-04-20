@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
