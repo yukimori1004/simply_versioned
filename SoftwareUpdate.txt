@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+* fix for predicting with batch_size > 1
