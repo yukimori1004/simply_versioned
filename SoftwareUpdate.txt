@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add horizontal Mosaic3 augmentation (#6898)
