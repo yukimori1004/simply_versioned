@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Python refactorings and simplifications (#7549)
