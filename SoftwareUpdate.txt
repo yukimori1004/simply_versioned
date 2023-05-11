@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Move Explorer tests to scheduled CI (#8305)
