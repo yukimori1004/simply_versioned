@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
