@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
