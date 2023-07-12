@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
