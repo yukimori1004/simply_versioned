@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
