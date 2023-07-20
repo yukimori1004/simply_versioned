@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
