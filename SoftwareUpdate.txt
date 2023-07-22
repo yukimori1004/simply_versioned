@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add plot_images conf_thresh parameter (#8446)
