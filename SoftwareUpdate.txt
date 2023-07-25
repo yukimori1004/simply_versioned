@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update CITATION.cff with cffinit corrections (#8658)
