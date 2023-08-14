@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Update format.yml to pull_request_target (#7460)
