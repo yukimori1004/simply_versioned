@@ -1,1 +1,1 @@
-fix non-coco val
+fix for predicting with batch_size > 1 (#47)
