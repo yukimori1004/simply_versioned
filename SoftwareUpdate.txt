@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Use pathlib in DOTA ops (#7552)
