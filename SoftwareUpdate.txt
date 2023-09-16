@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
