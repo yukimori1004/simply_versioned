@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Use pathlib in DOTA ops (#7552)
