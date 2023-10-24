@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
