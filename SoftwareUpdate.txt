@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Update Discord and Contributing Guide URLs (#9270)
