@@ -1,1 +1,1 @@
-add yolov10
+Update OpenVINO INT8 export (#7515)
