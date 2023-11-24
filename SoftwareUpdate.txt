@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+New test for labels and crops (#8861)
