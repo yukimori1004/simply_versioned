@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
