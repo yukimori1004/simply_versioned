@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
