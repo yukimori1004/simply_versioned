@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
