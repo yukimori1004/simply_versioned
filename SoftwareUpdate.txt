@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
