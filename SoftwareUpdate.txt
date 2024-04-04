@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix bbox2segment converter (#7814)
