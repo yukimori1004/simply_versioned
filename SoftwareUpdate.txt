@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Tracker: clean up GMC (#8003)
