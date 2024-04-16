@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
