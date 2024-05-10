@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Rename model_id to model.id (#8447)
