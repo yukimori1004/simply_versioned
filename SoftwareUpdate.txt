@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Add PR Summary step to Ultralytics Actions (#7675)
