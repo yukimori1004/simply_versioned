@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Updating a typo on paddlepaddle.md (#9108)
